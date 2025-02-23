@@ -16,7 +16,7 @@ import csv
 from collections import deque
 import tensorflow as tf
 import sys
-sys.path.append('D:\lip reading model\Computer-Vision-Lip-Reading-2.0-main\Computer-Vision-Lip-Reading-2.0-main')
+sys.path.append('D:\Computer-Vision-Lip-Reading-2.0-main')
 from constants import *
 from constants import TOTAL_FRAMES, VALID_WORD_THRESHOLD, NOT_TALKING_THRESHOLD, PAST_BUFFER_SIZE, LIP_WIDTH, LIP_HEIGHT
 

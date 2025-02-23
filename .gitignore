@@ -1,0 +1,2 @@
+*.npy
+model/train_weights.weights.h5
